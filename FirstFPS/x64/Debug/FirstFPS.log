@@ -1,0 +1,4 @@
+﻿  FirstFPS.cpp
+C:\Users\SANGRAM\OneDrive\Desktop\FPS with C++\FirstFPS\FirstFPS\FirstFPS.cpp(124,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\SANGRAM\OneDrive\Desktop\FPS with C++\FirstFPS\FirstFPS\FirstFPS.cpp(132,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  FirstFPS.vcxproj -> C:\Users\SANGRAM\OneDrive\Desktop\FPS with C++\FirstFPS\x64\Debug\FirstFPS.exe
